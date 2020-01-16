@@ -111,11 +111,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Toronto, ON Canada"
-  email            :
+  email            : "satyajeetparanjpe@gmail.com"
+  github           : "SJParanjpe"
+  linkedin         : "linkedin.com/in/satyajeet-paranjpe-mba-ms-8961291a"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:satyajeetparanjpe@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
